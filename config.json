@@ -1,0 +1,18 @@
+{
+  "appName": "",
+  "packageName": "",
+  "appgallery": {
+    "appId": "",
+    "client_id": "",
+    "client_secret": "",
+    "releaseType": 1
+  },
+  "xiaomi": {
+    "user_name": "",
+    "private_key": ""
+  },
+  "vivo": {
+    "access_key": "",
+    "access_secret": ""
+  }
+}
