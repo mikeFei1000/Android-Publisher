@@ -1,7 +1,6 @@
 # 前言
 
 本工具的作用是实现一键包体自动上传及发布到应用市场，目前已接入 Google Play、小米、vivo、华为，接入本工具后就不再需要登录市场的后台手动上传，更加便捷和节省时间。
-https://github.com/mikeFei1000/Android-Publisher
 
 # 环境准备
 
